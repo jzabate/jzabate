@@ -1,0 +1,13 @@
+#SpecStory
+.specstory/**
+
+#Cursor
+.cursorindexingignore
+
+#Operating System Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+#Node modules
+.node_modules/**
